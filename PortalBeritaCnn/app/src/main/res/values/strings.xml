@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Portal Berita Cnn</string>
+    <string name="input_username">Username</string>
+    <string name="input_password">Password</string>
+    <string name="login">Login</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="instructions">Instructions</string>
+    <string name="input_hint">input hint</string>
+    <string name="button_text">Button</string>
+    <string name="no_results">Text</string>
+    <string name="loading">Loading</string>
+    <string name="no_search_term">No Search Item</string>
+    <string name="no_network">no network</string>
+</resources>
